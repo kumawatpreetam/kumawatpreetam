@@ -81,8 +81,7 @@ I'm a *Frontend developer* passionate about building useful tools that make a di
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-
-<hr>
+---
 
 <div align="center">
 
