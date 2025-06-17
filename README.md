@@ -86,9 +86,9 @@ I'm a *Frontend developer* passionate about building useful tools that make a di
 <div align="center">
 
 ### 🎯 Current Focus
-- 🌱 I'm learning *Java*
-- 👯 I'm looking to collaborate on *Open Source Projects*
-- 💬 Ask me about *Frontend Development*
+ 🌱 I'm learning *Java*
+ 👯 I'm looking to collaborate on *Open Source Projects*
+ 💬 Ask me about *Frontend Development*
 
 </div>
 
@@ -100,7 +100,7 @@ I'm a *Frontend developer* passionate about building useful tools that make a di
 
 ![Visitor Count](https://profile-counter.glitch.me/kumawatpreetam/count.svg)
 
-⭐ From Preetam Kumawat(https://github.com/kumawatpreetam)
+⭐ From Preetam Kumawat
 
 </div>
 
