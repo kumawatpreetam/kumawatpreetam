@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-I'm a *Fullstack developer* passionate about building useful tools that make a difference. I believe in the power of code to solve real-world problems and create meaningful experiences.
+I'm a *Frontend developer* passionate about building useful tools that make a difference. I believe in the power of code to solve real-world problems and create meaningful experiences.
 
 *Fun fact:* I love to connect with people and learn about their journey. It opens my mind to new ideas and perspectives that inspire my work! 🌟
 
