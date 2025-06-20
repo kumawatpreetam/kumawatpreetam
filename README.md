@@ -8,11 +8,11 @@
 
 ## 🚀 About Me
 
-I'm a *Fullstack developer* passionate about building useful tools that make a difference. I believe in the power of code to solve real-world problems and create meaningful experiences.
+I'm a **Fullstack developer** passionate about building useful tools that make a difference. I believe in the power of code to solve real-world problems and create meaningful experiences.
 
-*Fun fact:* I love to connect with people and learn about their journey. It opens my mind to new ideas and perspectives that inspire my work! 🌟
+**Fun fact:** I love to connect with people and learn about their journey. It opens my mind to new ideas and perspectives that inspire my work! 🌟
 
-*Ask me anything, I'm happy to help!* 😄
+**Ask me anything, I'm happy to help!** 😄
 
 ---
 
@@ -24,7 +24,7 @@ I'm a *Fullstack developer* passionate about building useful tools that make a d
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kumawatpreetam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=kumawatpreetam&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats"/>
 </div>
 
 ### 🏆 GitHub Trophies
@@ -69,7 +69,7 @@ I'm a *Fullstack developer* passionate about building useful tools that make a d
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kumawatpreetam)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/_kumawatpreetam)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-preetamkumawat002@gmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:preetamkumawat002@gmail.com)
 
 </div>
 
@@ -86,9 +86,9 @@ I'm a *Fullstack developer* passionate about building useful tools that make a d
 <div align="center">
 
 ### 🎯 Current Focus
-- 🌱 I'm learning *Java*
-- 👯 I'm looking to collaborate on *Open Source Projects*
-- 💬 Ask me about *Frontend Development*
+- 🌱 I'm learning **Java**
+- 👯 I'm looking to collaborate on **Open Source Projects**
+- 💬 Ask me about **Frontend Development**
 
 </div>
 
@@ -96,15 +96,10 @@ I'm a *Fullstack developer* passionate about building useful tools that make a d
 
 <div align="center">
 
-*Thanks for visiting my profile! 🙏*
+**Thanks for visiting my profile! 🙏**
 
-![Visitor Count](https://profile-counter.glitch.me/kumawatpreetam/count.svg)
+![Profile Views](https://komarev.com/ghpvc/?username=kumawatpreetam&color=58A6FF&style=flat-square&label=Profile+Views)
 
 ⭐ From Preetam Kumawat
 
-</div>
-
-<!-- GitHub Profile Views -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=kumawatpreetam&color=58A6FF&style=flat-square&label=Profile+Views" alt="Profile Views"/>
 </div>
