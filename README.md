@@ -38,7 +38,7 @@ const anmol = {
 <!-- Icons -->
 <p align="center">
 
-<img src="icon/Git.png " alt="java" width="35" hight="35">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/CSS3.png" alt="java" width="35" hight="35">
 <img src=" " alt="java" width="35" hight="35">
 <img src=" " alt="java" width="35" hight="35">
 <img src=" " alt="java" width="35" hight="35">
