@@ -9,11 +9,12 @@
  
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
-```const anmol = {
-   <!--  // Personal pronouns -->
+```javascript
+const anmol = {
+    // Personal pronouns
     pronouns: "He/Him",
 
-     <!-- // Programming languages I work with -->
+    // Programming languages I work with
     code: [
         "HTML5",
         "CSS3",
@@ -23,14 +24,14 @@
         "Java"
     ],
 
-     <!-- // Things I love to talk about -->
+    // Things I love to talk about
     askMeAbout: [
         "Web Development",
         "UI/UX",
         "Tech Trends"
     ],
 
-     <!-- // Technologies I use -->
+    // Technologies I use
     technologies: {
         frontEnd: {
             js: ["Vanilla JS"],
@@ -38,11 +39,11 @@
         }
     },
 
-     <!-- // Current learning focus -->
+    // Current learning focus
     currentFocus:
         "Advanced development concepts & becoming a Full-Stack Developer 🚀",
 
-     <!-- // A fun fact about me -->
+    // A fun fact about me
     funFact:
         "I write better code with coffee in hand ☕ and music in the background 🎶"
 };
