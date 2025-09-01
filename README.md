@@ -1,12 +1,17 @@
 # 👋 Hello, I'm Preetam Kumawat!
 
+<!--Runing gif image -->
+
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=FrontEnd+Developer+%F0%9F%92%BB;Building+Useful+Tools+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
-<!-- gif image -->
+<!--right gif image -->
+
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  
+<!--About me section with gif image -->
+
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
@@ -32,6 +37,8 @@ const anmol = {
 };
 ```
 
+<!-- Connection gif image -->
+
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
 <br>
@@ -39,8 +46,8 @@ const anmol = {
 
 # Languages & Tools 👨‍💻 🛠:
 
-</br>
 <!-- Icons -->
+
 <p align="center">
 
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="60" hight="60">
