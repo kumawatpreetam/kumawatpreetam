@@ -4,10 +4,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=FrontEnd+Developer+%F0%9F%92%BB;Building+Useful+Tools+%F0%9F%9B%A0%EF%B8%8F;Always+Learning+%F0%9F%93%9A" alt="Typing SVG" />
 </div>
 
-<!-- gif image --> 
+<!-- gif image -->
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
  
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
 
 ```javascript
 const anmol = {
@@ -19,10 +19,12 @@ const anmol = {
             js: ["Vanilla"],
             css: ["Bootstrap"],
         },
-       
+
     currentFocus: "Advanced development concepts & becoming a Full-Stack Developer 🚀",
     funFact: "I write better code with coffee in hand ☕ and music in the background 🎶"
 };
+}
+
 ```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
@@ -30,28 +32,29 @@ const anmol = {
 ---
 
 # Languages & Tools 👨‍💻 🛠:
+
 </br>
 
 <!-- Icons -->
 <p align="center">
 
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg" alt="java"  width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg" alt="java"  width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/VSCode-Dark.svg" alt="AI" width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Replit-Dark.svg" alt="AI" width="35" hight="35">
+<img src="icon/Git.png " alt="java" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
 <br><br>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="css" width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css" width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg" alt="python" width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Dark.svg" alt="java"  width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/C.svg" alt="java"  width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
+<img src=" " alt="java"  width="35" hight="35">
+<img src=" " alt="java"  width="35" hight="35">
 <br><br>
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" alt="AI" width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Discord.svg" alt="AI" width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" alt="AI" width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Twitter.svg" alt="AI" width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Windows-Dark.svg" alt="AI" width="35" hight="35">
-<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Gmail-Dark.svg" alt="AI" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
+<img src=" " alt="java" width="35" hight="35">
 
 </p>
 
