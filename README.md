@@ -41,7 +41,7 @@ const anmol = {
 <!-- Icons -->
 <p align="center">
 
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="50" hight="50">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="60" hight="60"> <br>
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/C.png" alt="C" width="35" hight="35">
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/CSS3.png" alt="CSS" width="35" hight="35">
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Git.png" alt="Git" width="35" hight="35">
