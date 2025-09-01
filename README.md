@@ -13,7 +13,6 @@
 const anmol = {
   pronouns: "He/Him",
 
-  // Programming languages I work with
   code: ["HTML5", "CSS3", "JavaScript", "Python", "C", "Java"],
 
   askMeAbout: ["Web Development", "UI/UX", "Tech Trends"],
@@ -35,15 +34,12 @@ const anmol = {
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
----
-
 <br>
 <br>
 
 # Languages & Tools 👨‍💻 🛠:
 
 </br>
-
 <!-- Icons -->
 <p align="center">
 
@@ -80,5 +76,3 @@ const anmol = {
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
-
----
