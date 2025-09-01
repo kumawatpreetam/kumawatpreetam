@@ -11,43 +11,27 @@
 
 ```javascript
 const anmol = {
-    // Personal pronouns
-    pronouns: "He/Him",
+  pronouns: "He/Him",
 
-    // Programming languages I work with
-    code: [
-        "HTML5",
-        "CSS3",
-        "JavaScript",
-        "Python",
-        "C",
-        "Java"
-    ],
+  // Programming languages I work with
+  code: ["HTML5", "CSS3", "JavaScript", "Python", "C", "Java"],
 
-    // Things I love to talk about
-    askMeAbout: [
-        "Web Development",
-        "UI/UX",
-        "Tech Trends"
-    ],
+  askMeAbout: ["Web Development", "UI/UX", "Tech Trends"],
 
-    // Technologies I use
-    technologies: {
-        frontEnd: {
-            js: ["Vanilla JS"],
-            css: ["Bootstrap"]
-        }
+  technologies: {
+    frontEnd: {
+      js: ["Vanilla JS"],
+      css: ["Bootstrap"],
     },
+  },
 
-    // Current learning focus
-    currentFocus:
-        "Advanced development concepts & becoming a Full-Stack Developer 🚀",
+  currentFocus:
+    "Advanced development concepts & becoming a Full-Stack Developer 🚀",
 
-    // A fun fact about me
-    funFact:
-        "I write better code with coffee in hand ☕ and music in the background 🎶"
+  funFact:
+    "I write better code with coffee in hand ☕ and music in the background 🎶",
 };
-
+```
 
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
 
@@ -98,4 +82,3 @@ const anmol = {
 </div>
 
 ---
-```
