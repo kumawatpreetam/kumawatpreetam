@@ -41,25 +41,25 @@ const anmol = {
 <!-- Icons -->
 <p align="center">
 
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="60" hight="60"> <br>
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/C.png" alt="C" width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/CSS3.png" alt="CSS" width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Git.png" alt="Git" width="35" hight="35">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="60" hight="60"> 
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/C.png" alt="C" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/CSS3.png" alt="CSS" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Git.png" alt="Git" width="60" hight="60">
 <br>
 <br>
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/GitHub.png" alt="GitHub" width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/HTML5.png" alt="HTML5" width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Java.png" alt="Java" width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/JavaScript.png" alt="JavaScript"  width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/MySQL.png" alt="MySQL"  width="35" hight="35">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/GitHub.png" alt="GitHub" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/HTML5.png" alt="HTML5" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Java.png" alt="Java" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/JavaScript.png" alt="JavaScript"  width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/MySQL.png" alt="MySQL"  width="60" hight="60">
 <br>
 <br>
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Powershell.png" alt="PowerShell" width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ubuntu.png" alt="Ubuntu" width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Visual-Studio-Code-(VS-Code).png" alt="VS-Code" width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Windows-11.png" alt="Windows-11" width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ai.png" alt="Ai" width="35" hight="35">
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Replit.png" alt="Replit" width="35" hight="35">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Powershell.png" alt="PowerShell" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ubuntu.png" alt="Ubuntu" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Visual-Studio-Code-(VS-Code).png" alt="VS-Code" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Windows-11.png" alt="Windows-11" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ai.png" alt="Ai" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Replit.png" alt="Replit" width="60" hight="60">
 
 </p>
 
