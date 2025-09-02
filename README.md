@@ -48,6 +48,19 @@ const anmol = {
 <br>
 <br>
 
+<!--Rendom Quote-->
+
+## 💡 Random Dev Quote
+
+<br>
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
+</div>
+
+<br>
+<br>
+
 # Languages & Tools 👨‍💻 🛠:
 
 <br>
@@ -115,19 +128,6 @@ const anmol = {
 </p>
 
 </div>
-<br>
-<br>
-
-<!--Rendom Quote-->
-
-## 💡 Random Dev Quote
-
-<br>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
 <br>
 <br>
 
