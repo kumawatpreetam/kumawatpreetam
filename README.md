@@ -118,6 +118,6 @@ const anmol = {
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-</div>
-
+ <br> 
 [![Preetam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumawatpreetam&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</div>
