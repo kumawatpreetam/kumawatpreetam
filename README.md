@@ -156,16 +156,3 @@ const anmol = {
 &nbsp;
  <a href="https://github.com/kumawatpreetam"><img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/GitHub.png" alt = "GitHub" width="40"/></a>
 </p>
-
-<br>
-<br>
-
-## 🎶 Now Playing on Spotify
-
-<br>
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31ekjfpcewmqhp4fwm5fbam2xkyi)
-
-</div>
