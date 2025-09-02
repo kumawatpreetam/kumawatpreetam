@@ -126,3 +126,14 @@ const anmol = {
 ## 🖥️ Github Activity Graph
 
 [![Preetam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumawatpreetam&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<br>
+<br>
+
+## 📬 Contact
+
+<p align="left">
+  <a href="mailto:your-email@example.com"><img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Gmail.png" width="40"/></a>
+  <a href="https://linkedin.com/in/kumawatpreetam"><img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/LinkedIn.png" alt = "LinkedIn" width="40"/></a>
+  <a href="https://twitter.com/_kumawatpreetam"><img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Twitter.png" alt = "Twitter" width="40"/></a>
+</p>
