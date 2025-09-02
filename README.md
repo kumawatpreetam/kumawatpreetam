@@ -54,6 +54,8 @@ const anmol = {
 <p align="center">
 
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="60" hight="60">
+&nbsp;
+&nbsp;
 
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/C.png" alt="C" width="60" hight="60">
 &nbsp;
