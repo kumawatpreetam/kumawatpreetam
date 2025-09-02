@@ -140,6 +140,18 @@ const anmol = {
 <br>
 <br>
 
+## 🌐 Portfolio
+
+<br>
+
+<p align="left">
+  <a href="https://preetamkumawat-portfolio.netlify.app/">
+    <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/www.png" width="40"/> Visit My Portfolio
+  </a>
+</p>
+<br>
+<br>
+
 ## 📬 Contact
 
 <br>
