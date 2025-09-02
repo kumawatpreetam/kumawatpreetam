@@ -146,7 +146,7 @@ const anmol = {
 
 <p align="left">
   <a href="https://preetamkumawat-portfolio.netlify.app/">
-    <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/domain.png" width="40"/> </a>
+    <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/domain.png" width="60"/> </a>
 </p>
 <br>
 
