@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/person-dark.gif" alt="Banner" height="200" />
+  <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/person-dark.gif" alt="Banner" width ="400" />
 </p>
 
 # 👋 Hello, I'm Preetam Kumawat!
