@@ -46,6 +46,8 @@ const anmol = {
 
 # Languages & Tools 👨‍💻 🛠:
 
+<br>
+
 <!-- Icons -->
 
 <p align="center">
@@ -116,6 +118,8 @@ const anmol = {
 
 ## 💡 Random Dev Quote
 
+<br>
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
@@ -125,12 +129,16 @@ const anmol = {
 
 ## 🖥️ Github Activity Graph
 
+<br>
+
 [![Preetam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumawatpreetam&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <br>
 <br>
 
 ## 📬 Contact
+
+<br>
 
 <p align="left">
   <a href="mailto:preetamkumawat002@gmail.com"><img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Gmail.png" width="40"/></a>
@@ -142,5 +150,5 @@ const anmol = {
   <a href="https://twitter.com/_kumawatpreetam"><img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Twitter.png" alt = "Twitter" width="40"/></a>
 &nbsp;
 &nbsp;
- <a href="https://github.com/_kumawatpreetam"><img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/GitHub.png" alt = "GitHub" width="40"/></a>
+ <a href="https://github.com/kumawatpreetam"><img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/GitHub.png" alt = "GitHub" width="40"/></a>
 </p>
