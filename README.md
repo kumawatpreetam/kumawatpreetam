@@ -121,7 +121,11 @@ const anmol = {
 </div>
 
 <br>
+<br>
 
+<div align="center">
 ## 🖥️ Github Activity Graph
 
 [![Preetam's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kumawatpreetam&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
