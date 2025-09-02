@@ -8,8 +8,11 @@
 
 <!--right gif image -->
 
-<img align='right' src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/cat.gif" width="230">
- 
+&nbsp;
+&nbsp;
+
+<img align='right' src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/person.gif" width="230">
+
 <!--About me section with gif image -->
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
@@ -50,24 +53,60 @@ const anmol = {
 
 <p align="center">
 
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="60" hight="60"> 
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/C.png" alt="C" width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/CSS3.png" alt="CSS" width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Git.png" alt="Git" width="60" hight="60">
 <br>
 <br>
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/GitHub.png" alt="GitHub" width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/HTML5.png" alt="HTML5" width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Java.png" alt="Java" width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/JavaScript.png" alt="JavaScript"  width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/MySQL.png" alt="MySQL"  width="60" hight="60">
 <br>
 <br>
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Powershell.png" alt="PowerShell" width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ubuntu.png" alt="Ubuntu" width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Visual-Studio-Code-(VS-Code).png" alt="VS-Code" width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Windows-11.png" alt="Windows-11" width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ai.png" alt="Ai" width="60" hight="60">
+&nbsp;
+&nbsp;
+
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Replit.png" alt="Replit" width="60" hight="60">
 
 </p>
