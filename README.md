@@ -8,10 +8,7 @@
 
 <!--right gif image -->
 
-&nbsp;
-&nbsp;
-
-<img align='right' src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/person.gif" width="230">
+<img align='right' src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/person-dark.gif" width="230">
 
 <!--About me section with gif image -->
 
