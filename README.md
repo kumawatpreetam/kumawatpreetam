@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/person-dark.gif" alt="Banner" />
+</p>
+
 # 👋 Hello, I'm Preetam Kumawat!
 
 <!--Runing gif image -->
