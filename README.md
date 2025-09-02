@@ -12,7 +12,7 @@
 
 <!--right gif image -->
 
-<img align='right' src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/person-dark.gif" width="230">
+<img align='right' src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/fir.gif" width="230">
 
 <!--About me section with gif image -->
 
