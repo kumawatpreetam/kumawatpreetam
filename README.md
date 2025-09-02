@@ -149,7 +149,6 @@ const anmol = {
     <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/domain.png" width="40"/> </a>
 </p>
 <br>
-<br>
 
 ## 📬 Contact
 
