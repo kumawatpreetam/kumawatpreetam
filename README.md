@@ -12,7 +12,7 @@
 
 <!--About me section with gif image -->
 
-### <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/cat-icon.gif" width="50"> A little more about me...
+### <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/Gif/cat-icon.webp" width="50"> A little more about me...
 
 ```javascript
 const anmol = {
