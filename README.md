@@ -29,7 +29,7 @@ const anmol = {
   technologies: {
     frontEnd: {
       js: ["Vanilla JS"],
-      css: ["Bootstrap"],
+      css: ["Bootstrap,Sass"],
     },
   },
 
@@ -124,6 +124,11 @@ const anmol = {
 &nbsp;
 
 <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Replit.png" alt="Replit" width="60" hight="60">
+&nbsp;
+&nbsp;
+
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Replit.png" alt="Replit" width="60" hight="60">
+
 
 </p>
 
