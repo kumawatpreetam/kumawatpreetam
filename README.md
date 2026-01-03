@@ -127,7 +127,7 @@ const anmol = {
 &nbsp;
 &nbsp;
 
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Replit.png" alt="Replit" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Sass.png" alt="Replit" width="60" hight="60">
 
 
 </p>
