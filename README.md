@@ -67,69 +67,9 @@ const anmol = {
 
 <!-- Icons -->
 
-<p align="center">
+<div align="left">
 
-<!-- <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="60" hight="60">
-&nbsp;
-&nbsp;
 
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/C.png" alt="C" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/CSS3.png" alt="CSS" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Git.png" alt="Git" width="60" hight="60">
-<br>
-<br>
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/GitHub.png" alt="GitHub" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/HTML5.png" alt="HTML5" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Java.png" alt="Java" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/JavaScript.png" alt="JavaScript"  width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/MySQL.png" alt="MySQL"  width="60" hight="60">
-<br>
-<br>
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Powershell.png" alt="PowerShell" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ubuntu.png" alt="Ubuntu" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Visual-Studio-Code-(VS-Code).png" alt="VS-Code" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Windows-11.png" alt="Windows-11" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ai.png" alt="Ai" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Replit.png" alt="Replit" width="60" hight="60">
-&nbsp;
-&nbsp;
-
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Sass.png" alt="Replit" width="60" hight="60"> -->
-
-<div>
 
 | HTML | 
 |--|
@@ -158,21 +98,23 @@ const anmol = {
 
 | VS-Code  |
 |----------|
-| <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Visual-Studio(VS-Code).png" alt="Visual-Studio(VS-Code)" width="60" hight="60">| 
+| <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Visual-Studio-Code-(VS-Code).png" alt="Visual-Studio(VS-Code)" width="60" hight="60">| 
 
 | Git | Github |
 |----------|----|
 | <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Git.png" alt="Git" width="60" hight="60">|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/GitHub.png" alt="GitHub" width="60" hight="60">|
+
+| Powershell | AI |
+|----------|----|
+| <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Powershell.png" alt="Git" width="60" hight="60">|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ai.png" alt="GitHub" width="60" hight="60">|
 ### OS:
 
-| Windows | Ubuntu | Kali |
-|----------|----------|----------|
-| <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Windows-11.png" alt="Ubuntu" width="60" hight="60"> | <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ubuntu.png" alt="Ubuntu" width="60" hight="60"> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="60" height="60"/> |
-
-<hr>
-</p>
+| Windows | Ubuntu |
+|----------|----------|
+| <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Windows-11.png" alt="Ubuntu" width="60" hight="60"> | <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ubuntu.png" alt="Ubuntu" width="60" hight="60"> |
 
 </div>
+
 <br>
 <br>
 
@@ -208,7 +150,4 @@ const anmol = {
 &nbsp;
 &nbsp;
   <a href="https://twitter.com/_kumawatpreetam"><img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Twitter.png" alt = "Twitter" width="40"/></a>
-&nbsp;
-&nbsp;
- <a href="https://github.com/kumawatpreetam"><img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/GitHub.png" alt = "GitHub" width="40"/></a>
 </p>
