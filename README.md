@@ -69,7 +69,7 @@ const anmol = {
 
 <p align="center">
 
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="60" hight="60">
+<!-- <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png " alt="Bootstrap" width="60" hight="60">
 &nbsp;
 &nbsp;
 
@@ -127,14 +127,56 @@ const anmol = {
 &nbsp;
 &nbsp;
 
-<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Sass.png" alt="Replit" width="60" hight="60">
+<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Sass.png" alt="Replit" width="60" hight="60"> -->
 
+<div>
 
+| HTML | 
+|--|
+|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/HTML5.png" alt="C" width="60" hight="60">|
+
+|CSS|Sass|
+|--|--|
+|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/CSS3.png" alt="CSS" width="60" hight="60">|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Sass.png" alt="CSS" width="60" hight="60">|
+
+|JavaScript|Css|
+|--|--|
+|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/JavaScript.png" alt="CSS" width="60" hight="60">|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Java.png" alt="CSS" width="60" hight="60">|
+
+### Best frameworks and main libraries:
+
+| Bootstrap | 
+|--|
+|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png" alt="C" width="60" hight="60">|
+
+### Database:
+
+| MySql |
+|----------|
+| <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/MySQL.png" alt="MySQL"  width="60" hight="60">| 
+### Environments, Testing, Other:
+
+| VS-Code  |
+|----------|
+| <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Visual-Studio(VS-Code).png" alt="Visual-Studio(VS-Code)" width="60" hight="60">| 
+
+| Git | Github |
+|----------|----|
+| <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Git.png" alt="Git" width="60" hight="60">|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/GitHub.png" alt="GitHub" width="60" hight="60">|
+### OS:
+
+| Windows | Ubuntu | Kali |
+|----------|----------|----------|
+| <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Windows-11.png" alt="Ubuntu" width="60" hight="60"> | <img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Ubuntu.png" alt="Ubuntu" width="60" hight="60"> | <img src="https://github.com/canaleal/devicon/blob/new-icon-kali-linux/icons/kalilinux/kalilinux-original-wordmark.svg" title="Linux" alt="Linux" width="60" height="60"/> |
+
+<hr>
 </p>
 
 </div>
 <br>
 <br>
+
+
 
 ## 🖥️ Github Activity Graph
 
