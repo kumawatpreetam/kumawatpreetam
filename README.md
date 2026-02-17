@@ -79,7 +79,7 @@ const anmol = {
 |--|--|
 |<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/CSS3.png" alt="CSS" width="60" hight="60">|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Sass.png" alt="CSS" width="60" hight="60">|
 
-|JavaScript|Css|
+|JavaScript|Java|
 |--|--|
 |<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/JavaScript.png" alt="CSS" width="60" hight="60">|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Java.png" alt="CSS" width="60" hight="60">|
 
