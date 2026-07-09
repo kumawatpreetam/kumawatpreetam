@@ -24,12 +24,12 @@ const anmol = {
 
   code: ["HTML5", "CSS3", "JavaScript", "Python", "C", "Java"],
 
-  askMeAbout: ["Web Development", "UI/UX", "Tech Trends"],
+  askMeAbout: ["Web Development", "UI/UX", "Tech Trends", "UI Testing"],
 
   technologies: {
     frontEnd: {
       js: ["Vanilla JS"],
-      css: ["Bootstrap,Sass"],
+      css: ["Bootstrap,Sass,Tailwind"],
     },
   },
 
@@ -88,9 +88,9 @@ Where i add my github user name
 
 ### Best frameworks and main libraries:
 
-| Bootstrap | 
-|--|
-|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png" alt="C" width="60" hight="60">|
+|Bootstrap|Tailwind| 
+|--|--|
+|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Bootstrap.png" alt="C" width="60" hight="60">|<img src="https://github.com/kumawatpreetam/kumawatpreetam/blob/main/icons/Tailwind-CSS.png" alt="CSS" width="60" hight="60">|
 
 ### Database:
 
